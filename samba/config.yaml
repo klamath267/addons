@@ -47,4 +47,5 @@ schema:
     - str
   allow_hosts:
     - str
+devices: ["/dev/sda:/dev/sda1",
 startup: services
